@@ -34,8 +34,6 @@ The goal of this analysis is to know:
 
 - Power BI concepts like:
    - Creating key performance indicators (KPIs) and other business calculations
-   - Developing general DAX calculations that deal with text and numbers,
-   - Performed advanced DAX calculations for solving statistical measures and other mathematical formulas,
    - Data Modelling,
    - Measures,
    - Filters,
