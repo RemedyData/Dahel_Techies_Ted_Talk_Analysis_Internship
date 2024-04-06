@@ -1,6 +1,6 @@
 # Dahel_Techies_Ted_Talk_Analysis_Internship
 Dahel Consultant and Techies Internship: This is a project that entails the analysis of a Ted Talk event.
-(*The picture below is gotten from The Guardian Nigeria News Website*). 
+(*The picture below is gotten from The Hollywood Reporters Website*). 
 
 
 ![image](https://github.com/RemedyData/Dahel_Techies_Ted_Talk_Analysis_Internship/assets/137626163/22da9340-6c4b-4454-a62b-d999b115713a)
