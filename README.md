@@ -12,7 +12,7 @@ Dahel Consultant and Techies Internship: This is a project that entails the anal
 
 ## Introduction
 
-This is Ted Talk Show analysis. It is done by analyzing data from  the TEDTALK table which comprises of TITLE column,	AUTHOR column, DATE column,	VIEWS column,	LIKES column,	and LINK column. I used Excel to get an overview of the dataset before importing it into Power BI where the actual analysis was carried out. 
+This is Ted Talk Show analysis. It is done by analyzing data from  the TEDTALK table which comprises of TITLE, AUTHOR, DATE, VIEWS,	LIKES, and LINK fields. I used Excel to get an overview of the dataset before importing it into Power BI where the actual analysis was carried out. 
 
 ## Problem Statement
 
